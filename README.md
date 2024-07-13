@@ -13,3 +13,4 @@
 - At the starting screen, simply type the task you want to accomplish for the day, and just let it run in the background.
 - This app uses audio to generate personalized messages, so be sure to turn your sound on!
 - Try not to get distracted from your task. Good luck!
+- DO NOT DO ANY SENSITIVE TASKS SUCH AS ONLINE BANKING FOR EXAMPLE. This app does not collect any data from tge user as the screenshot will be saved in the user's folder directory that has the app in it, however the screenshots are still passed into Gemini's database.
