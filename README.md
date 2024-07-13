@@ -9,7 +9,7 @@
 - The taunt message will be converted into speech which the user will then hear while being distracted.
 
 # How to use
-- Just download the executable file in the releases section and run it!
+- Just download the zip file in the releases section and extract it, then run the executable file inside.
 - At the starting screen, simply type the task you want to accomplish for the day, and just let it run in the background.
 - This app uses audio to generate personalized messages, so be sure to turn your sound on!
 - Try not to get distracted from your task. Good luck!
